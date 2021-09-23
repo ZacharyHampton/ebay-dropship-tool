@@ -1,0 +1,26 @@
+{
+  "General": {
+      "useBuyerBilling": false,
+      "catchall": "example.com"
+  },
+
+  "Billing": {
+      "firstName": "mr",
+      "lastName": "dog",
+      "country": "US",
+      "address": "123 dog ln",
+      "address2": "",
+      "state": "CA",
+      "city": "Los Angeles",
+      "zipcode": "11111"
+  },
+
+  "Payment": {
+      "cardName": "mr dog",
+      "cardType": "Visa",
+      "cardNumber": "4744111111111111",
+      "cardMonth": "01",
+      "cardYear": "22",
+      "cardCvv": "111"
+  }
+}

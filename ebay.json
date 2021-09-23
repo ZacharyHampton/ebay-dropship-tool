@@ -1,0 +1,17 @@
+{
+   "sandbox":{
+      "appId":"<app id>",
+      "certId":"<certificate id>",
+      "devId":"<developer id>",
+      "redirectId":"<redirect id>",
+      "refreshToken":""
+   },
+
+   "production":{
+      "appId":"<app id>",
+      "certId":"<certificate id>",
+      "devId":"<developer id>",
+      "redirectId":"<redirect id>",
+      "refreshToken":""
+   }
+}
